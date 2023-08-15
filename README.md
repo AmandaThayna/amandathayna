@@ -20,4 +20,4 @@
 <img aling="center" alt="php"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/Amandathayna/AmandaThayna/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
