@@ -7,7 +7,7 @@
 
 ![Amanda GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaThayna&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda&langs_count=8)
 
 ### Tecnologias que eu uso no meu dia
 
