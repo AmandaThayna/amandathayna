@@ -20,4 +20,10 @@
 <img aling="center" alt="php"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
+<h1>Atividade</h1>
+<!-- visitors count  -->
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/AmandaThayna/count.svg" />  
+
  ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
